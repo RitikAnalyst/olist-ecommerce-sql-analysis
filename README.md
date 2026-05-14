@@ -79,6 +79,4 @@ ecommerce)
 ## Author
 **Ritik Singh**  
 Aspiring Data Analyst | Python · SQL · Pandas · Matplotlib  
-�
-�
  [github.com/RitikAnalyst](https://github.com/RitikAnalyst)
